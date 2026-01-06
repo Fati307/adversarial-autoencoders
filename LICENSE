@@ -1,0 +1,88 @@
+MIT License
+
+Copyright (c) 2025 [AFKIR FATIMA ZAHRA / IBN TOFAIL]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+##  About This License
+
+The MIT License is one of the most permissive and widely-used open source licenses. 
+
+###  What you CAN do:
+- ✓ Use this software for commercial purposes
+- ✓ Modify the source code
+- ✓ Distribute copies of the software
+- ✓ Use the software privately
+- ✓ Sublicense the software
+
+###  What you MUST do:
+- Include the original copyright notice
+- Include this license text in all copies or substantial portions
+
+###  What we DON'T provide:
+- No warranty of any kind
+- No liability for damages
+- No trademark rights
+
+---
+
+##  Why MIT License?
+
+We chose the MIT License because we believe in:
+- **Open collaboration** - Anyone can contribute and improve
+- **Maximum freedom** - Use it however you want
+- **Minimal restrictions** - Just give credit where it's due
+- **Community growth** - Let's build something amazing together
+
+---
+
+##  Third-Party Licenses
+
+This project uses the following open source packages:
+
+- **PyTorch** - BSD-style license
+- **torchvision** - BSD 3-Clause License
+- **NumPy** - BSD License
+- **Matplotlib** - PSF-based license
+- **scikit-learn** - BSD 3-Clause License
+- **tqdm** - MIT License
+
+All third-party licenses are compatible with the MIT License.
+
+---
+
+##  Attribution
+
+If you use this project in your research or commercial product, we'd appreciate (but don't require) attribution:
+
+```
+Adversarial Autoencoders Project
+https://github.com/Fati307/Brusco
+Licensed under MIT License
+```
+
+---
+
+##  Questions?
+
+If you have questions about licensing, feel free to:
+- Open an issue on GitHub
+- Contact us at [afkir.fatima.zahra.ds.ai@gmail.com]
