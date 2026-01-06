@@ -23,7 +23,10 @@ data/
 *.jpeg
 
 # Results
+# Results
 result_*/
+*.pdf
+!BRUSCO.pdf
 
 # IDE
 .vscode/
@@ -35,3 +38,4 @@ result_*/
 # OS
 .DS_Store
 Thumbs.db
+
